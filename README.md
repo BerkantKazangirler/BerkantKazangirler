@@ -7,7 +7,6 @@
 <a href="https://kaggle.com/berkantkazangirler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="berkantkazangirler" height="30" width="40" /></a>
 <a href="https://instagram.com/berkantkazangirler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkantkazangirler" height="30" width="40" /></a>
 <a href="https://www.behance.net/berkantkazangirler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="berkantkazangirler" height="30" width="40" /></a>
-<a href="https://discord.gg/903466839747756074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="903466839747756074" height="30" width="40" /></a>
 </p>
 
 # 📊 GitHub Stats:
