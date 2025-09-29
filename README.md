@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false)<br/>
-  ![](https://streak-stats.demolab.com?user=berkantkazangirler&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&date_format=n/j[/Y])<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" height="150" alt="repo graph" />
+  <img src="https://streak-stats.demolab.com?user=berkantkazangirler&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&date_format=n/j[/Y]" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact" height="150 alt="languages graph" />
 </div>
