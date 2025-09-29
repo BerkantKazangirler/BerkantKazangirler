@@ -9,7 +9,8 @@
 <a href="https://www.behance.net/berkantkazangirler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="berkantkazangirler" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=berkantkazangirler&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&date_format=n/j[/Y])<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false)<br/>
+  ![](https://streak-stats.demolab.com?user=berkantkazangirler&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&date_format=n/j[/Y])<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact)
+</div>
