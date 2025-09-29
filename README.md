@@ -9,6 +9,7 @@
 <a href="https://www.behance.net/berkantkazangirler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="berkantkazangirler" height="30" width="40" /></a>
 </p>
 
+# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" height="150" alt="repo graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact" height="150 alt="languages graph" />
