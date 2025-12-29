@@ -12,8 +12,8 @@
 # 📊 Stats:
 <div align="center">
   <div align="center">
-    <img src="https://img.shields.io/badge/%20Projects-21-blue?labelColor=24292e" />
-    <img src="https://img.shields.io/badge/Awards%20%20-2-blue?labelColor=24292e" />
+    <img src="https://img.shields.io/badge/%20Projects-26-blue?labelColor=24292e" />
+    <img src="https://img.shields.io/badge/Awards%20%20-4-blue?labelColor=24292e" />
     <img src="https://img.shields.io/badge/Earned%20Certificates-27-blue?labelColor=24292e" />
   </div>
   <img src="https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" height="150" alt="repo graph" />
