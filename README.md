@@ -19,7 +19,7 @@
   </div>
 
   <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/BerkantKazangirler/BerkantKazangirler/activity-graph-output/activity-graph.svg" height="230" alt="activity-graph graph" />
     <img align="center" src="https://streak-stats.demolab.com?user=berkantkazangirler&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&date_format=n/j[/Y]" height="175" alt="streak graph" />
+    <img align="center" src="https://raw.githubusercontent.com/BerkantKazangirler/BerkantKazangirler/activity-graph-output/activity-graph.svg" height="230" alt="activity-graph graph" />
   </div>
 </div>
