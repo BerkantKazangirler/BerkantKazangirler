@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/%20Projects-26-blue?labelColor=24292e" />
     <img src="https://img.shields.io/badge/Awards%20%20-4-blue?labelColor=24292e" />
     <img src="https://img.shields.io/badge/Earned%20Certificates-27-blue?labelColor=24292e" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=berkantkazangirler.berkantkazangirler&left_color=24292e&right_color=blue&left_text=Profile%20Visits"  />
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" height="150" alt="repo graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantkazangirler&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=false&count_private=false&layout=compact" height="150 alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/BerkantKazangirler/BerkantKazangirler/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=berkantkazangirler&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&date_format=n/j[/Y]" height="150" alt="streak graph" />
 </div>
