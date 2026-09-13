@@ -13,9 +13,9 @@
 
 <div align="center">
   <div style="margin-bottom: 20px;">
-    <img src="https://img.shields.io/badge/%20Projects-30-blue?labelColor=24292e" />
-    <img src="https://img.shields.io/badge/Awards%20%20-4-blue?labelColor=24292e" />
-    <img src="https://img.shields.io/badge/Earned%20Certificates-32-blue?labelColor=24292e" />
+    <img src="https://img.shields.io/badge/%20Projects-25-blue?labelColor=24292e" />
+    <img src="https://img.shields.io/badge/Awards%20%20-3-blue?labelColor=24292e" />
+    <img src="https://img.shields.io/badge/Earned%20Certificates-27-blue?labelColor=24292e" />
   </div>
 
   <div align="center">
